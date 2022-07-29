@@ -20,7 +20,7 @@ Use these command and the save it and exit
 
 ## Screenshots :
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308.jpeg">
+<img src="(https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308.jpeg)">
 
 <img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (1).jpeg">
 
