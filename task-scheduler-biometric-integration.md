@@ -20,58 +20,58 @@ Use these command and the save it and exit
 
 ## Screenshots :
 
-<img src="https://github.com/thirvusoft/thirvusoft-biometric/pull/1/files#diff-e4ab8672b9c1bc95a65b7c444dd33969936c583c744ce6f3961b367da454c964">
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308.jpeg">
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (1).jpeg">
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(1).jpeg">
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (2).jpeg">
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(2).jpeg">
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (2).jpeg">
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(2).jpeg">
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (3).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(3).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (4).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(4).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (5).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(5).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (6).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(6).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (7).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(7).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (8).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(8).jpeg" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624308 (9).jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624308%20(9).jpeg" >
 
 <img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/11.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/12.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/12.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/13.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/13.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/14.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/14.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/15.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/15.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/16.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/16.png" >
 
-<img src="//home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/17.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/17.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/18.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/18.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/19.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/19.png" >
 
 Create .sh File Command 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/20.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/20.png" >
 Set path File Commands
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/21.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/21.png" >
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/22.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/22.png" >
 
 Whether given path is correct or wrong use this run and click okay button. 
 use this command : bash /home/administrator/biometric-attendance-sync-tool/python3 erpnext_sync.py 
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/23.png" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/23.png" >
 
 Permission for shell script command
 
-<img src="/home/hr-emp-00016/frappe-bench/v13-bench/apps/thirvusoft-biometric/assests/photo1657624572.jpeg" >
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/photo1657624572.jpeg" >
