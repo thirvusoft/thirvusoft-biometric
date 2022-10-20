@@ -6,7 +6,7 @@
  * Eg Command - 
                 <p> nano hello.sh </p> 
                 <p>#!/bin/sh</p>
-                <p>cd /home/administrator/biometric-attendance-sync-tool/* next line *python3 erpnext_sync.py </p>
+                <p> /home/administrator/biometric-attendance-sync-tool/* next line *python3 erpnext_sync.py </p>
 
 Use these command and the save it and exit
 #### Step -4 : Open the Task Scheduler by typing Task in the Windows search box
