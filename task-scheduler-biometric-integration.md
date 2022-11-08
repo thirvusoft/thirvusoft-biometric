@@ -52,6 +52,8 @@ Use these command and the save it and exit
 
 <img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/15.png" >
 
+<img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/Screenshot from 2022-11-08 10-54-48.png" >
+
 <img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/16.png" >
 
 <img src="https://github.com/thirvusoft/thirvusoft-biometric/blob/latest_branch/assests/17.png" >
