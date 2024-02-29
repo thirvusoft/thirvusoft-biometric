@@ -1,4 +1,5 @@
 ## Setup Automatic Biometric Integration in Task Scheduler
+#### Go to microsoft store Install ubuntu and go to Start Menu, and search “Turn Windows feature on or off” select Windows Subsystem for Linux and click OK.
 #### Step -1 : Open Ubuntu Subsystem in your windows and then moved to the biometric file
 #### Step -2 : Create a shell script .sh file 
  * Eg Command - *vi hello.sh*
